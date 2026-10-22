@@ -6,8 +6,8 @@
 
 - Astitva Agrawal, Division C
 - Anmol Kumar Sinha, Division C
-- Sahil Islam, Division C
-- Khushi Gurm, Division C
+- Sahil Islam, Division D
+- Khushi Gurm, Division B
 
 ## Topic
 
